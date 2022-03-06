@@ -1,0 +1,38 @@
+header {
+    background-color: #0d1b2a;
+    color: #fefae0;
+  }
+  
+  .imgDiv {
+    background-color: #0d1b2a;
+  }
+  
+  .underLine {
+    height: 2px;
+    width: 100%;
+    background-color: #a5a58d;
+  }
+  
+  .specialText {
+    color: #023e8a;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  
+  .aboutText {
+    padding: 8px 20px;
+    background-color: #f8f9fa;
+  }
+  
+  footer {
+    background-color: #0d1b2a;
+    color: #fefae0;
+    text-align: center;
+    line-height: 40px;
+  }
+  
+  footer .footerText {
+    color:white;
+  }
+  
+/*# sourceMappingURL=style.css.map */
